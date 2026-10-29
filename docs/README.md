@@ -3,7 +3,7 @@
 
   APP ICON TODO
   
-## Bluper ![GitHub Release](https://img.shields.io/github/v/release/ZH-XiJun/com.wtbruh.blurrr?include_prereleases)
+## Bluper ![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.zh_xijun.bluper?include_prereleases)
 
 *bl**UPER** - s**UPER** **BLU**rr**R***
 
@@ -21,7 +21,7 @@
 
 ## 使用说明
 
-- 点小图标下载：![GitHub Release](https://img.shields.io/github/v/release/ZH-XiJun/com.wtbruh.blurrr?include_prereleases)
+- 点小图标下载：![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.zh_xijun.bluper?include_prereleases)
 
 - 或者下CI版，需要登录GitHub： [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/zh-xijun/com.wtbruh.blurrr/android.yml)](https://github.com/zh-xijun/com.wtbruh.blurrr/actions/workflows/android.yml)
 
@@ -34,6 +34,8 @@
 ## 构建
 
 *兄弟，跟正常App一样该咋构建咋构建就好了*
+
+源码在[这](httos://github.com/zh-xijun/bluper)
 
 ```bash
 ./gradlew :app:assembleDebug
